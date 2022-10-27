@@ -20,7 +20,7 @@ const FAQ = () => {
 			</details>
 			<details className="w-full border rounded-lg cursor-pointer shadow-lg">
 				<summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400">what is useref in react?</summary>
-				<p className="px-4 py-6 pt-0 ml-4 -mt-4 ">Essentially, useRef is like a “box” that can hold a mutable value in its .current property. You might be familiar with refs primarily as a way to access the DOM. If you pass a ref object to React with , React will set its .current property to the corresponding DOM node whenever that node changes.. </p>
+				<p className="px-4 py-6 pt-0 ml-4 -mt-4 ">Essentially, useRef is like a “box” that can hold a mutable value in its .current property. You might be familiar with refs primarily as a way to access the DOM. And If you pass a ref object to React with , React will set its .current property to the corresponding DOM node whenever that node changes.. </p>
 			</details>
 			
 		</div>
