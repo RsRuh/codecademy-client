@@ -35,7 +35,7 @@ const CheckOut = () => {
     }
 
     const selectedCourses = useLoaderData();
-    const { price, videos, quizes, assignment, name, picture } = selectedCourses;
+    const { price, videos, assignment, name, picture } = selectedCourses;
     return (
         <div>
             <section className='mt-10'>

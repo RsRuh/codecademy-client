@@ -16,7 +16,7 @@ const FAQ = () => {
 			</details>
 			<details className="w-full border rounded-lg cursor-pointer shadow-lg">
 				<summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400">what is useeffect in react?</summary>
-				<p className="px-4 py-6 pt-0 ml-4 -mt-4 "> What does useEffect do? By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed we'll refer to it as our “effect”, and call it later after performing the DOM update</p>
+				<p className="px-4 py-6 pt-0 ml-4 -mt-4 "> What does useEffect do? By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed we'll refer to it as our and call it later after performing the DOM update</p>
 			</details>
 			<details className="w-full border rounded-lg cursor-pointer shadow-lg">
 				<summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400">what is useref in react?</summary>

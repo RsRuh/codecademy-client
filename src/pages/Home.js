@@ -25,7 +25,7 @@ const Home = () => {
                     </Link>
 
                     <p className="my-12 text-xs font-medium uppercase text-gray-400">
-                    Learning is the process of acquiring new understanding
+                    Learning is the process of acquiring new understanding.
                     </p>
                 </div>
 
