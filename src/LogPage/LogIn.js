@@ -32,7 +32,7 @@ const LogIn = () => {
         
         })
         .catch(error=>{
-            toast.error('Something Wrong')
+            toast.error('Something Wrong Please Check')
             setError(error.message)
         })
     }
@@ -42,7 +42,7 @@ const LogIn = () => {
         .then(result=>{
             const user = result.user;
             if(user){
-                toast.success('Successfully Login!')
+                toast.success('Successfully LogIn!')
                 navigate(from, {replace: true})
             }
             
