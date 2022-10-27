@@ -70,7 +70,7 @@ const Register = () => {
             const user = result.user;
             if(user){
                 navigate(from, {replace: true})
-                Swal.fire('Successfully Login')
+                Swal.fire('Successfully Register')
             }
         })
         .catch(error=>console.error(error))
