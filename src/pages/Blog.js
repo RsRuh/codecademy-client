@@ -19,7 +19,7 @@ const Blog = () => {
 			</details>
 			<details className="w-full border rounded-lg cursor-pointer shadow-lg">
 				<summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400">How does the private route work?</summary>
-				<p className="px-4 py-6 pt-0 ml-4 -mt-4 ">The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated. </p>
+				<p className="px-4 py-6 pt-0 ml-4 -mt-4 ">The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated.</p>
 			</details>
 			<details className="w-full border rounded-lg cursor-pointer shadow-lg">
 				<summary className="px-4 py-6 focus:outline-none focus-visible:ring-violet-400">What is Node? How does Node work?</summary>

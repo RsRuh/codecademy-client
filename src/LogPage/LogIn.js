@@ -59,7 +59,10 @@ const LogIn = () => {
                 toast.success('Successfully Login!')
             }
         })
-        .catch(error=>console.error(error))
+        .catch(error=>{
+            toast.error('Something Wrong!')
+        })
+
     }
     
 
