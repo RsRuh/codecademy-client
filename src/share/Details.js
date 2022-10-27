@@ -28,7 +28,7 @@ const Details = () => {
                 <div className="flex flex-col max-w-lg p-6 my-10 md:my-0 space-y-6 overflow-hidden rounded-lg CardImage">
                     <div>
                         <img src={picture} className="object-cover rounded-xl w-full mb-4 h-60 sm:h-96 bg-gray-500" />
-                        <Link to={`/checkout/${_id}`} className="btn btn-block bg-[#5E1FE9]">Get premium access.</Link>
+                        <Link to={`/checkout/${_id}`} className="btn btn-block bg-[#5E1FE9]">Get premium access</Link>
                     </div>
                     <div className="grid grid-cols-3 gap-2 justify-items-center">
                         <div className='flex py-1 CssShadow w-full rounded-xl justify-center'>
