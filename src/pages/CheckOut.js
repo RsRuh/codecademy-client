@@ -11,7 +11,7 @@ const CheckOut = () => {
         e.preventDefault();
         let timerInterval
         Swal.fire({
-            title: 'Thanks For Buying',
+            title: 'Thanks For Buying Our Courses',
             html: 'CheckOut <b></b> milliseconds.',
             timer: 2000,
             timerProgressBar: true,
