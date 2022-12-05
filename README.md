@@ -3,7 +3,7 @@
 ## This is a best quiz platform 
  
 - [Live Link](https://codecademy-dadbe.web.app/)
-- [GitHub Link](https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-RsRuh)
+- [Servwe GitHub Link](https://github.com/RsRuh/codecademy-Server)
  
 ## Website Details 
 - Buy Courses
