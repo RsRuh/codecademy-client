@@ -3,7 +3,7 @@
 ## This is a best quiz platform 
  
 - [Live Link](https://codecademy-dadbe.web.app/)
-- [Servwe GitHub Link](https://github.com/RsRuh/codecademy-Server)
+- [Server GitHub Link](https://github.com/RsRuh/codecademy-Server)
  
 ## Website Details 
 - Buy Courses
